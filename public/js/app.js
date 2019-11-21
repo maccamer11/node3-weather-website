@@ -1,7 +1,5 @@
 // client side weather request
 
-console.log('CS JS file is loaded')
-
 
 const weatherForm = document.querySelector('form')
 const search = document.querySelector('input')
